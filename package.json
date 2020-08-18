@@ -1,0 +1,24 @@
+{
+  "name": "modem-status",
+  "version": "1.0.0",
+  "description": "Get modem status.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modem",
+    "status",
+    "arris",
+    "cable"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnielsen1965/modem-status.git"
+  },
+  "author": "Bryan Nielsen (@bnielsen1965)",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^16.4.0"
+  }
+}
